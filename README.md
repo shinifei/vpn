@@ -6,4 +6,4 @@ This directory is a brief example of a [Docusaurus](https://docusaurus.io/) site
 
 ---
 
-计划搭建一个[vpn售卖系统网站](https://gaosu.biz)，同事有偿搭建VPN销售管理系统，请联系vyes@hotmail.com。
+计划搭建一个[vpn售卖系统网站](https://gaosu.biz)，有偿搭建VPN销售管理系统，请联系vyes@hotmail.com。
