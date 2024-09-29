@@ -1,5 +1,5 @@
 ---
-id: VPN1
+id: doc1
 title: VPN售卖网站搭建
 sidebar_label: Example Page
 ---
